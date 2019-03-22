@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="digite_seu_nome">Digite seu nome.</string>
+    <string name="_55">+55</string>
+    <string name="_88">88</string>
+    <string name="_9_9999_9999">9.9999-9999</string>
+    <string name="todo">TODO</string>
+    <string name="texto_validacao">Validação</string>
+    <string name="botao_Validar">Validar</string>
+    <string name="txt_Login">Logar</string>
+    <string name="txt_Cadastra_se">Não tem conta? Cadastra-se</string>
+    <string name="menu_sair">Sair</string>
+    <string name="menu_configuracoes">Configurações</string>
+    <string name="menu_buscar">Pesquisar</string>
+    <string name="menu_adicionar">Adicionar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
